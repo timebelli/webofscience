@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,clarivate
   - DOMAIN-KEYWORD,webofscience
   - DOMAIN-KEYWORD,webofknowledge
-  - DOMAIN-KEYWORD,onetrust
+  - DOMAIN-KEYWORD,geolocation.onetrust
+  - DOMAIN-KEYWORD,ekr.zdassets
 
   
