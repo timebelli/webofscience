@@ -3,5 +3,6 @@
 payload:
   - DOMAIN-KEYWORD,clarivate
   - DOMAIN-KEYWORD,webofscience
+  - DOMAIN-KEYWORD,webofknowledge
 
   
