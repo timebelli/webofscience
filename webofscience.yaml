@@ -6,6 +6,8 @@ payload:
   - DOMAIN-KEYWORD,webofknowledge
   - DOMAIN-KEYWORD,geolocation.onetrust
   - DOMAIN-KEYWORD,ekr.zdassets
-  - DOMAIN-KEYWORD,sjtu
+  - DOMAIN-KEYWORD,oc.sjtu.edu
+  - DOMAIN-KEYWORD,jaccount.sjtu.edu
+  - DOMAIN-KEYWORD,sjtu.edu
 
   
