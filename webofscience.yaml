@@ -9,5 +9,6 @@ payload:
   - DOMAIN-KEYWORD,oc.sjtu.edu
   - DOMAIN-KEYWORD,jaccount.sjtu.edu
   - DOMAIN-KEYWORD,sjtu.edu
+  - DOMAIN-KEYWORD,ai.ashuiai
   - IP-CIDR,98.126.27.164/50001
   - IP-CIDR,98.126.27.164/50000
